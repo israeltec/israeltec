@@ -35,4 +35,3 @@
 
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 💡 Buscando a cada novo dia aprender mais e mais
-- <br>
