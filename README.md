@@ -1,4 +1,4 @@
-# Olá!... 👋<br>Eu sou Israel, estudante e entusiasta do mundo da programação e tecnologia.
+# Olá!... 👋<br>Eu sou Israel, estudante e entusiasta do mundo da programação e suas tecnologias.
 
 <br>
 
